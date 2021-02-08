@@ -1,6 +1,16 @@
 <?php
+/*
 
-// 1_Intro
+Folder Path: 1_Intro
+
+1). PHP Introduction
+2). PHP Installation
+3). PHP Syntax
+4). PHP Comments
+5). PHP Variables
+
+*/
+
 
 $x = 10;
 $y = 2;
