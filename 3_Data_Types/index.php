@@ -78,7 +78,7 @@ echo '<hr>';
 
 // 6). Object
 
-echo "Object Topic On Hold at 8th if Feb 2021";
+echo "Object Topic On Hold at 8th of Feb 2021";
 
 // -------------------
 echo '<hr>';
@@ -97,4 +97,4 @@ echo '<hr>';
 
 // 9). Resource
 
-echo "Resource Topic On Hold at 8th if Feb 2021";
+echo "Resource Topic On Hold at 8th of Feb 2021";
