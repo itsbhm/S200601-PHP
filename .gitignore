@@ -1,3 +1,6 @@
 #Hidden System Files
 .DS_Store
 Thumbs.db
+
+# Ignored Files
+test.php
