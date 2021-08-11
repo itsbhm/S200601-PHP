@@ -66,6 +66,37 @@ Operator	    Name	              Example
 <=      Less than or equal to         $x <= $y
 <=>           Spaceship	              $x <=> $y
 
+// Example Start
+
+$num1 = 3251;
+$num2 = 3252;
+
+if($num1 == $num2){
+    
+    echo ("Input number is same");
+
+}else{
+    
+    echo ("Input number is not same");
+
+}
+
+
+$age = 45;
+
+if ($age >= 18){
+
+    echo ("He/She can submit vote");
+
+}else{
+
+    echo ("He/She can't submit vote");
+
+}
+
+
+// Example End
+
 ------------------------------
 
 PHP Increment / Decrement Operators:
