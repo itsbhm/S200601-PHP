@@ -37,6 +37,18 @@ x *= y || x = x * y
 x /= y || x = x / y
 x %= y || x = x % y
 
+// Example Start
+
+$x = 5;
+$y = 10;
+
+// $x = $x + $y;
+// $x += $y;
+
+echo($x);
+
+// Example End
+
 ------------------------------
 
 PHP Comparison Operators:
